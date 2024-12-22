@@ -1,6 +1,6 @@
-<sub> 💻◽Base de datos de una Biblioteca◽📚</sub>
+<sup> 💻◽Base de datos de una Biblioteca◽📚 </sup>
 
-Con esta aplicacion podes buscar libros 📕 por nombre del libro, nombre del autor, entre otros.
+<sub> Con esta aplicacion podes buscar libros 📕 por nombre del libro, nombre del autor, entre otros </sub>
 
 Acciones que podemos hacer con esta aplicacion
 
